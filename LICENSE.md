@@ -1,4 +1,4 @@
-# 
+# quantitative nft rarity sniper bot | flip-strategies + simulation-mode is the best nft rarity sniper bot, featuring flip-strategies and simulation-mode. Fast, smart, and optimized
 
 
 
